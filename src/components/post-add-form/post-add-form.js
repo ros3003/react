@@ -14,7 +14,6 @@ const PostAddForm = () => {
                 type="submit"
                 className="btn btn-outline-secondary">
                 Добавить </button>
-                <button>test</button>
         </form>
     )
 }
